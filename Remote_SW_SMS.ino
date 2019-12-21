@@ -1,6 +1,6 @@
 /*******************************
 Remote SW with ArdUnio board and Sim900 GSM shield
-Hanna Päivästö 2018
+Hanna P 2018
 *******************************/
 
 /*-----( Import needed libraries )-----*/
